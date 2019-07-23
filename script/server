@@ -1,5 +1,5 @@
 #!/bin/sh
 
 set -e
-
+# This comment is added by Vinod
 bundle exec jekyll serve "$@"
